@@ -26,7 +26,7 @@ tags:
 ### 2.npm的代理设置
  	npm config set proxy http://my.proxyserver.com:80
 
-### 3.将默认的Netbeans中文版设置为英文界面/如何将Netbeans 6.5设置为英文界面
+### 3.将默认的Netbeans中文版设置为英文界面/如何将Netbeans 8.2设置为英文界面
  - 进入netbeans8.2/etc ，其中netbeans 8.2为netbeans的安装路径。 
  - 编辑netbeans.conf 
  - 将其中的#command line switchs下面那行中增加两个启动参数： 
