@@ -7,10 +7,11 @@ author:     MK
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
-    - Xcode
-    - 开发技巧
+    - Git
+    - IDE
 ---
-#1.如果你手上有代理是 http 的，那么可以这样设置
+
+#如果你手上有代理是 http 的，那么可以这样设置
 
 //通过 http 链接 clone 代码时走 http 代理
 git config --global http.proxy "http://127.0.0.1:6667"
@@ -28,10 +29,10 @@ git config --global https.proxy "http://127.0.0.1:6667"
     proxy = http://127.0.0.1:6152
 如果端口有变动也可以直接在这里修改。
 
-#2.npm的代理设置
+#npm的代理设置
  npm config set proxy http://my.proxyserver.com:80
 
-#3将默认的Netbeans中文版设置为英文界面/如何将Netbeans 6.5设置为英文界面
+#将默认的Netbeans中文版设置为英文界面/如何将Netbeans 6.5设置为英文界面
  - 进入netbeans8.2/etc ，其中netbeans 8.2为netbeans的安装路径。 
  - 编辑netbeans.conf 
  - 将其中的#command line switchs下面那行中增加两个启动参数： 
