@@ -4,7 +4,7 @@ title:      Sublime text v3143 激活码
 subtitle:   版本v3143
 date:       2017-09-26
 author:     MK
-header-img: img/post-bg-hacker.jpg
+header-img: img/post-bg-unix-linux.jpg
 catalog: true
 tags:
     - Sublime text
@@ -28,4 +28,4 @@ tags:
     E36B85CC 84991F19 7575D828 470A92AB
     —— END LICENSE ——
 ```
-![](https://github.com/KanmaCN/KanmaCN.github.io/blob/master/img/1/1.png)
+![](https://github.com/KanmaCN/KanmaCN.github.io/blob/master/img/1.png)
