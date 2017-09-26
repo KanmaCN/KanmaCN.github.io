@@ -28,4 +28,4 @@ tags:
     E36B85CC 84991F19 7575D828 470A92AB
     —— END LICENSE ——
 ```
-![](https://github.com/KanmaCN/KanmaCN.github.io/blob/master/img/1.png)
+![](https://github.com/KanmaCN/KanmaCN.github.io/img/1.jpg)
